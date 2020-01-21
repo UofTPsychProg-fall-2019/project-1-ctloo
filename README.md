@@ -21,6 +21,13 @@ During the study phase, participants see a series of 100 images and are asked to
 During the first block all 100 images are shown.
 In subsequent blocks, 80 of the images are repeated, at varying levels of degredation (0%, 25%,50%,75%).
 This repeats for four blocks, with the question changing each block.
+Each trial lasts two seconds, whether or not a response is made. This is to encourage participants to scan the image.
+
+
+For the test phase, participants are shown the entire series again, with half of them being replaced by similar lure images.
+Participants need to indicate if each displayed image is one they've seen before or is a lure image.
+The experiment ends a trial when a response is made or after two seconds have passed.
+
 
 The condition list is hard coded into the file that needs to be uploaded during the initial deployment.
 The experment needs to be deployed multiple times for different counter balances
