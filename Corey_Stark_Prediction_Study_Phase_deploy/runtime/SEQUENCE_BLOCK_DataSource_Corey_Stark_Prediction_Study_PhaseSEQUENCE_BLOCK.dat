@@ -1,0 +1,7 @@
+$block_number	$instruction_image
+string	string
+"1"	"indoor_instructions.jpg"
+"2"	"tool_instructions.jpg"
+"3"	"metal_instructions.jpg"
+"4"	"shoe_instructions.jpg"
+"5"	"colour_instructions.jpg"

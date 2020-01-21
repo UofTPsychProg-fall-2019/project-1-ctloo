@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+	<assemblyIdentity version="1.0.0.0" processorArchitecture="X86" name="Corey_Stark_Prediction_Study_Phase_deploy" type="win32"/>
+	<description>Corey_Stark_Prediction_Study_Phase_deploy</description>
+	<trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+		<security>
+			<requestedPrivileges>
+				<requestedExecutionLevel level="requireAdministrator" uiAccess="False"/>
+			</requestedPrivileges>
+		</security>
+	</trustInfo>
+<application xmlns="urn:schemas-microsoft-com:asm.v3">
+<windowsSettings>
+    <dpiAware xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true/pm</dpiAware>
+</windowsSettings>
+</application>
+</assembly>
